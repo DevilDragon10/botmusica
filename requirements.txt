@@ -1,0 +1,8 @@
+discord
+discord.py
+requests
+PyNaCl
+youtube_dl
+discord.py[voice] ~= 0.16.0
+colorlog
+pip
